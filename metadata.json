@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart",
+  "description": "Enterprise-grade e-commerce application modeled after Flipkart with multi-vendor cart, rich product catalog, search, checkout, order tracking, and seller hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
