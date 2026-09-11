@@ -224,13 +224,7 @@ Product catalog and certain application states are maintained through the reposi
 
 The project contains an `.env.example` file for configuration.
 
-If Gemini AI functionality is enabled, configure the required API key through the appropriate environment/secrets configuration.
 
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
-
-**Never commit your actual API key or other secrets to GitHub.**
 
 ## 🚀 Getting Started
 
@@ -293,37 +287,6 @@ Test files are located under:
 ```text
 app/src/test/
 app/src/androidTest/
-```
-
-## 📸 Screenshots
-
-Add screenshots of the application here to make the repository more attractive and easier to understand.
-
-Recommended screenshots:
-
-1. Home screen
-2. Search screen
-3. Product details
-4. Wishlist
-5. Cart
-6. Checkout
-7. Order tracking
-8. Seller Hub
-9. Admin Dashboard
-10. Vibes
-
-Example:
-
-```markdown
-## 📸 Screenshots
-
-| Home | Product Details |
-|---|---|
-| ![Home](screenshots/home.png) | ![Product](screenshots/product.png) |
-
-| Cart | Checkout |
-|---|---|
-| ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) |
 ```
 
 ## 🔮 Future Improvements
